@@ -17,7 +17,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/emersion/go-sasl"
+	"github.com/Sticatel/go-sasl"
 )
 
 // A Client represents a client connection to an SMTP server.

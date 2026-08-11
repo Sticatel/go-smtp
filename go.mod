@@ -1,5 +1,5 @@
-module github.com/emersion/go-smtp
+module github.com/Sticatel/go-smtp
 
-require github.com/emersion/go-sasl v0.0.0-20241020182733-b788ff22d5a6
+require github.com/Sticatel/go-sasl v0.1.0
 
 go 1.13

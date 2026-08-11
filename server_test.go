@@ -15,8 +15,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/emersion/go-sasl"
-	"github.com/emersion/go-smtp"
+	"github.com/Sticatel/go-sasl"
+	"github.com/Sticatel/go-smtp"
 )
 
 type message struct {

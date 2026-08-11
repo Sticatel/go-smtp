@@ -18,7 +18,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/emersion/go-sasl"
+	"github.com/Sticatel/go-sasl"
 )
 
 // Don't send a trailing space on AUTH command when there's no initial response:

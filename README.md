@@ -1,6 +1,6 @@
 # go-smtp
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/emersion/go-smtp.svg)](https://pkg.go.dev/github.com/emersion/go-smtp)
+[![Go Reference](https://pkg.go.dev/badge/github.com/Sticatel/go-smtp.svg)](https://pkg.go.dev/github.com/Sticatel/go-smtp)
 
 An ESMTP client and server library written in Go.
 

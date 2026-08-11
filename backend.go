@@ -3,7 +3,7 @@ package smtp
 import (
 	"io"
 
-	"github.com/emersion/go-sasl"
+	"github.com/Sticatel/go-sasl"
 )
 
 var (

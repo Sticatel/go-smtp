@@ -16,7 +16,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/emersion/go-sasl"
+	"github.com/Sticatel/go-sasl"
 )
 
 // Number of errors we'll tolerate per connection before closing. Defaults to 3.
